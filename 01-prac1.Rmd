@@ -179,7 +179,7 @@ However, a nice place to start is looking at the typical workflow of a data scie
 knitr::include_graphics('allisonhorst_images/environmental_data_science_r4ds_general.png')
 ```
 
-To begin you have to **import** your data (not necessarily environmental) into R or someother kind of GIS to acatually be able to do any kind of analysis on it.
+To begin you have to **import** your data (not necessarily environmental) into R or someother kind of GIS to actually be able to do any kind of analysis on it.
 
 Once imported you might need to **tidy** the data. This really depends on what kind of data it is and we cover this later on in the course. However, putting all of your data into a consistent structure will be very beneficial when you have to do analysis on it --- as you can treat it all in the same way. Grolemund and Wickham state that data is tidy when "each column is a variable, and each row is an observation", we cover this more in next week in the [Tidying data] section.
 
