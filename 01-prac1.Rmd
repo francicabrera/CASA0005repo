@@ -71,7 +71,7 @@ knitr::include_graphics('allisonhorst_images/continuous_discrete.png')
 
 Nominal data has labels without any quantitative value such as hair colour or type of animal. 
 
-Oridnal data has an order or scale, for example if you have ever seen the chilli rating system on food labels or filled a happiness survey with a range between 1 and 10 --- that's ordinal. Here the order matters, but not the difference between them.
+Ordinal data has an order or scale, for example if you have ever seen the chilli rating system on food labels or filled a happiness survey with a range between 1 and 10 --- that's ordinal. Here the order matters, but not the difference between them.
 
 Binary data is that that can have only two possible outcomes, yes and no or shark and not shark.
 
