@@ -195,7 +195,7 @@ After you have transformed the data the next best thing to do is **visualise** i
 
 Next up is **modelling**. Personally within GIS i'd say a better term is processing as the very data itself is usually a computer model of reality. The modelling or processing section is where you conduct the core analysis (more than the basic analysis already mentioned) and try to provide an answer to your research question.
 
-Fianlly you have to **communicate** your study and outputs, it doesn't matter how good your data wrangling, modelling or processing is, if your intended audience can't interpret it, well, it's pretty much useless. 
+Finally you have to **communicate** your study and outputs, it doesn't matter how good your data wrangling, modelling or processing is, if your intended audience can't interpret it, well, it's pretty much useless. 
 
 ::: {.infobox .tip data-latex="{note}"}
 In a few weeks come back and revisit this data flow section to see how what you have learnt fits the framework presented. 
